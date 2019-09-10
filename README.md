@@ -18,7 +18,7 @@ To train the model, the only required parameter is the `--data-path` parameter, 
 python main.py --data-path /path/to/data 
 ```
 
-For my options, run this.
+For more options, run this.
 ```bash
 python main.py -h
 ```
